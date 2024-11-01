@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(224, 87, 117);
+  color: rgba(255, 255, 255, 0.644);
+}
+img {
+  margin-top: 50px;
+  border-radius: 12px;
+}

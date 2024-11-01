@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(160, 80, 214);
+  color: white;
+}
+img {
+  margin-top: 50px;
+  width: 900px;
+  height: 700px;
+  border-radius: 12px;
+}

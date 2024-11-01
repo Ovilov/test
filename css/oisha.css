@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(216, 123, 69);
+  color: white;
+}
+img {
+  margin-top: 50px;
+  border-radius: 12px;
+}
